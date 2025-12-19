@@ -62,7 +62,6 @@ ad blocker/
 │   ├── popup.html          # UI Layout
 │   ├── popup.js            # UI Logic
 │   └── rules.json          # Network blocking rules
-├── install_adblocker.py    # Automation script for shortcuts
 └── README.md               # This file
 ```
 
@@ -73,3 +72,4 @@ ad blocker/
 *   **v1.5**: Added Whitelisting and Element Zapper.
 *   **v1.3**: Aggressive YouTube skipping (50ms interval).
 *   **v1.0**: Initial release with blocking rules.
+
