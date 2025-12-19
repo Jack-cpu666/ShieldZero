@@ -17,14 +17,19 @@
 
 ## 📦 Installation
 
-Since this is a developer extension, you install it via "Developer Mode":
+### Option 1: Chrome Web Store
+*(Coming Soon)*
 
-1.  Open your browser and navigate to `chrome://extensions` (or `edge://extensions`).
-2.  Enable **Developer Mode** (toggle in the top-right corner).
-3.  Click **Load unpacked**.
-4.  Select the `extension` folder inside this project directory:
-    *   `.../ad blocker/extension`
-5.  The **Shield Pro** icon should appear in your toolbar. Pin it for easy access!
+### Option 2: Manual Installation (Developer Mode)
+If you want to run this code directly from source:
+
+1.  **Download** this repository (Code -> Download ZIP) and unzip it.
+2.  Open Chrome and navigate to `chrome://extensions`.
+3.  Enable **Developer Mode** (toggle switch in the top-right corner).
+4.  Click the **Load unpacked** button.
+5.  Select the `extension` folder from the unzipped files.
+    *   *Note: Select the folder named 'extension', not the outer folder.*
+6.  The **ShieldZero** icon should appear in your toolbar. Pin it for easy access!
 
 ## 🎮 Usage
 
